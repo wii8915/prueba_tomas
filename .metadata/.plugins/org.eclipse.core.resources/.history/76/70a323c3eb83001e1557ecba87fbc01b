@@ -1,0 +1,10 @@
+package prueba_tomas;
+
+public class Princpal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
